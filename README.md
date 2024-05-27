@@ -16,4 +16,8 @@ The source file for the Tableau is in Northwind.twb. Additionally, before I impl
 ![Dashboard](Dashboard_1.png)
 
 ## Summary
- 
+- Executed SQL queries on a comprehensive PostgreSQL database with 12 tables and 88 columns, utilizing the pgAdmin
+tool interface to conduct in-depth analysis of company sales, supply chain, shipping, and customer orders.
+- Generated an ERD to visualize database structure; designed 25+ OLTP queries to extract valuable business insights.
+- Developed a Tableau dashboard to present sales KPIs, providing an interactive and clear overview for stakeholders to drive
+strategic initiatives and optimize business operations.
