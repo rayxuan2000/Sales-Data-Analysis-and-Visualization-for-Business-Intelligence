@@ -13,7 +13,7 @@ You can use northwind.sql to create tables and do initializations. Import quary.
 ## Tableau Dashboard
 The source file for the Tableau is in Northwind.twb. Additionally, before I implemented dashboard visualization, I grasped the key inforamtion by using joins among table and created a table which is saved in .csv file.
 
-![Dashboard](Dashboard 1.png)
+![Dashboard](Dashboard_1.png)
 
 ## Summary
  
